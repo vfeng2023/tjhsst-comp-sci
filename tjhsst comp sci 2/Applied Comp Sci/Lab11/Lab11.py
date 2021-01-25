@@ -1,4 +1,4 @@
-#Name: Karthik and Vivan
+#Name: ... and Vivan
 #Date: 10/23/2019
 
 import webbrowser

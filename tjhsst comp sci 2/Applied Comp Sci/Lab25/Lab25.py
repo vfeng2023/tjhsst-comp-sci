@@ -1,4 +1,4 @@
-# Name: Vivian Feng and Shriya Muthukumar
+# Name: Vivian Feng and ...
 # Date: 2.26.2020
 
 # read declaration of independence

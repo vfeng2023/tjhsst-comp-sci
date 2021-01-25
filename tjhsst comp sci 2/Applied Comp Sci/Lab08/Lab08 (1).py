@@ -1,4 +1,4 @@
-#Name: Karthik and Vivan
+#Name: ... and Vivan
 #Date: 10/11/2019
 
 from PIL import Image

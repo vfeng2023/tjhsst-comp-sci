@@ -1,4 +1,4 @@
-#Name: Vivian and Karthik
+#Name: Vivian and ...
 #Date: 1/17/2020
 
 from random import randint

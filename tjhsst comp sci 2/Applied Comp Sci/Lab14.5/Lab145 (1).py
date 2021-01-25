@@ -1,4 +1,4 @@
-# Name: Vivian Feng and Karthik Bhurgav
+# Name: Vivian Feng and ...
 # Date: 11/28/2019
 
 from Tkinter import Tk, Canvas

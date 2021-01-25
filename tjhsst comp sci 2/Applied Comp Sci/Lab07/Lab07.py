@@ -1,4 +1,4 @@
-#Name: Vivian Feng and Karthik Bhargav
+#Name: Vivian Feng and ...
 #Date" 10/9/2019
 
 from PIL import Image

@@ -1,4 +1,4 @@
-#Name: Karthik and Vivian
+#Name: ... and Vivian
 #Date: 10/3/2019
 
 import math

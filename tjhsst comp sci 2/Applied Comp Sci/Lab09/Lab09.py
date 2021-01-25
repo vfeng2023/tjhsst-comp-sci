@@ -1,4 +1,4 @@
-#Name: Vivian and Karthik
+#Name: Vivian and ...
 
 #Date: 10/18/2019
 

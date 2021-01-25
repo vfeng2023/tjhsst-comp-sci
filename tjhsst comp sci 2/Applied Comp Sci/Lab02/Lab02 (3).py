@@ -1,4 +1,4 @@
-#Name: Karthik and Vivan
+#Name: ... and Vivan
 #Date: 10/2/2019
 from random	import random
 
