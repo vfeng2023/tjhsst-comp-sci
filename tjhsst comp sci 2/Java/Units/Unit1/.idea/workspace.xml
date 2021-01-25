@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec704e11-f6bc-494b-8762-f775d382decd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZGlFhHCQKyHxF7r58q3DZPJ1rx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Lab12">
+    <configuration name="Lab00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab00" />
+      <module name="Unit1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab12" />
+      <module name="Unit1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab12" />
+        <item itemvalue="Application.Lab00" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec704e11-f6bc-494b-8762-f775d382decd" name="Default Changelist" comment="" />
+      <created>1584473209580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584473209580</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="194" key="#Project_Structure" timestamp="1584631777774">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="560" y="194" key="#Project_Structure/0.23.1920.1008@0.23.1920.1008" timestamp="1584631777774" />
+    <state x="424" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584473440594">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584473440594" />
+    <state x="794" y="448" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584473277607">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="794" y="448" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584473277607" />
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom" timestamp="1584632089558">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1584632089558" />
+    <state width="1878" height="281" key="GridCell.Tab.0.center" timestamp="1584632089557">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1878" height="281" key="GridCell.Tab.0.center/0.23.1920.1008@0.23.1920.1008" timestamp="1584632089557" />
+    <state width="1878" height="281" key="GridCell.Tab.0.left" timestamp="1584632089557">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1878" height="281" key="GridCell.Tab.0.left/0.23.1920.1008@0.23.1920.1008" timestamp="1584632089557" />
+    <state width="1878" height="281" key="GridCell.Tab.0.right" timestamp="1584632089557">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1878" height="281" key="GridCell.Tab.0.right/0.23.1920.1008@0.23.1920.1008" timestamp="1584632089557" />
+    <state x="448" y="110" key="SettingsEditor" timestamp="1584631572358">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="448" y="110" key="SettingsEditor/0.23.1920.1008@0.23.1920.1008" timestamp="1584631572358" />
+    <state x="616" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1584630845577">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="374" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584630845577" />
+  </component>
+</project>
