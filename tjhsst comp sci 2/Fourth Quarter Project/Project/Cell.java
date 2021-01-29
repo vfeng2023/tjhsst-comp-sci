@@ -1,6 +1,6 @@
 /**
 * The Cell class represents a single square on the Game of Life. A cell knows how to draw itself, and its state.
-* @author Vivian Feng and Shriya Muthukumar, authored by Vivian Feng
+* @author Vivian Feng and ..., authored by Vivian Feng
 * @version stub
 */
 import java.awt.*;//Graphics classes
